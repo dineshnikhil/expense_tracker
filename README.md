@@ -35,6 +35,8 @@ Expense Tracker is a Python program that allows users to track their expenses an
 
 3. The program will save the expenses to a file and display a summary of your expenses, including the total spent, expenses by category, and the remaining budget.
 
+> **_NOTE:_** Feel free to start with the empty expenses.csv file
+
 4. The program will also calculate the budget per day based on the remaining budget and the number of days remaining in the current month.
 
 ## Output Looks Like this.
