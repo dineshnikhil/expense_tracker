@@ -18,7 +18,7 @@ def main():
 
 
 def get_user_expense():
-    print(f"🎯 Getting user expense.")
+    print("🎯 Getting user expense.")
     expense_name = input("Enter expense name: ")  # Prompt the user to enter the expense name
     expense_amount = float(input("Enter expense amount: "))  # Prompt the user to enter the expense amount
 
